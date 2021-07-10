@@ -4,5 +4,5 @@ Sorting Algorithms Used:-
 3.) InsertionSort
 4.) BubbleSort
 
-Frame Work used:-
+Dev tool used:-
 1.) ReactJS
