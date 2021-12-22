@@ -7,4 +7,4 @@ Sorting Algorithms Used:-
 Dev tool used:-
 1.) ReactJS
 
-The demo of my project can be find here:- https://epic-leakey-c0f2e4.netlify.app
+The demo of my project can be find here:- https://sorting-the-bars.netlify.app
